@@ -1,0 +1,6 @@
+{
+  "rank": ".rank",
+  "name": ".playerName",
+  "nationality": ".playerCountry",
+  "goals": ".mainStat"
+}
